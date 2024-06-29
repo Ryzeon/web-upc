@@ -1,0 +1,21 @@
+{
+  "home": "Inicio",
+  "app-name": "Instituto de Enfermería Geriátrica de Hartford",
+  "home-info": "Bienvenido a HIGN",
+  "examiner-performance-overview": "Resumen del Rendimiento del Examinador",
+  "card-analytics" :{
+    "title": "Análisis del Examen del Estado Mental",
+    "subtitle": "Análisis de la Puntuación",
+    "count": "Número de Evaluaciones",
+    "highest": "Puntuación Más Alta",
+    "lowest": "Puntuación Más Baja",
+    "average": "Puntuación Promedio"
+  },
+  "examiner-card": {
+    "examiner": "Examinador",
+    "subtitle": "Rendimiento del Examen del Estado Mental",
+    "count": "Cantidad Actual de Exámenes de Salud Mental Asignados",
+    "average": "Promedio de Calificación Total de Exámenes de Salud Mental Asignados"
+  }
+
+}

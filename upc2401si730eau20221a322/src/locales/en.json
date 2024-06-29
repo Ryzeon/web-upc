@@ -1,0 +1,20 @@
+{
+  "home": "Home",
+  "home-info": "Welcome to HIGN",
+  "app-name": "Hartford Institute for Geriatric Nursing",
+  "examiner-performance-overview": "Examiner Performance Overview",
+  "card-analytics": {
+    "title": "Mental State Exam Analytics",
+    "subtitle": "Score Analytics",
+    "count": "Exam Count",
+    "highest": "Highest Score",
+    "lowest": "Lowest Score",
+    "average": "Average Score"
+  },
+  "examiner-card": {
+    "examiner": "Examiner",
+    "subtitle": "Mental State Exam Performance",
+    "count": "Current Assigned Mental State Exam Count",
+    "average": "Average Assigned Mental State Exam Total Score"
+  }
+}
