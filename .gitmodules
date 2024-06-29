@@ -1,0 +1,3 @@
+[submodule "sweetmanager-web-services"]
+	path = sweetmanager-web-services
+	url = https://github.com/Los-No-Se-Quienes-y-Los-No-Se-Cuantos/sweetmanager-web-services.git
