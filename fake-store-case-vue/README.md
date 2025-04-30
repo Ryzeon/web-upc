@@ -69,7 +69,7 @@ Referencias:
 - Now we need to install primevue, follow the instructions on the [PrimeVue](https://primevue.org/vite) website
 
 ```bash
-npm i primevue && npm i primeicons && npm i primeflex
+npm i primevue && npm i primeicons && npm i primeflex  && npm i primevue @primeuix/themes
 ```
 
 - Now import in main.js here example
@@ -114,11 +114,12 @@ import 'primeicons/primeicons.css';
 import 'primeflex/primeflex.css';
 
 // Theme
-import 'primevue/resources/themes/md-light-indigo/theme.css';
-import 'primevue/resources/primevue.min.css';
+import Aura from '@primeuix/themes/aura';
 
 createApp(App)
-    .use(PrimeVue, {ripple: true})
+     .use(PrimeVue, {ripple: true,
+        theme: Aura,
+    })
     .use(ConfirmationService)
     .use(DialogService)
     .use(ToastService)
